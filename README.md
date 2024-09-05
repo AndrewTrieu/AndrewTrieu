@@ -12,4 +12,4 @@ I'm an aspiring software engineer who loves connecting the dots: be it ideas fro
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AndrewTrieu&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=AndrewTrieu&icon=0&color=0)
