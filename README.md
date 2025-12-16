@@ -1,3 +1,5 @@
+> *The repositories of this profile are mirrored from* https://git.andrew-trieu.link/AndrewTrieu.
+
 # 💫 About Me:
 I'm an aspiring software engineer who loves connecting the dots: be it ideas from different disciplines 📚, people from different teams 👥, or applications from different industries 💼. I have strong technical skills and an academic background in cloud and full-stack development 📱.<br><br>My passion lies in solving technical problems with tailored requirements and communicating complex ideas to non-technical stakeholders. I'm able to jump across verticals to deliver high-performing application solutions. I consider myself a fast self-learner, and work well under pressure and strict deadlines.<br><br>I have experience in cloud back-end ☁️, and DevOps ⚙️ roles. Please feel free to get in touch with me via email 📧 at <andrewtrieu.2003@gmail.com> or <andrew.trieu@proton.me>
 
